@@ -1,6 +1,25 @@
-## Welcome to the MayMeow HQ 👋
+# Welcome to the MayMeow HQ 😺
 
-🙋‍♀️ Welcome to the MayMeow HQ.
+🙋‍♀️ Welcome to MayMeow HQ, where we build open-source solutions, GitHub Actions, and useful PHP libraries to simplify development. Our goal is to create high-quality tools that enhance developer productivity and streamline workflows.
+
+## 🚀 What We Do
+
+- **Open-source projects** – Tools and libraries for developers.
+- **GitHub Actions** – Automating workflows and CI/CD pipelines.
+- **PHP Libraries** – Utilities and frameworks to improve PHP development.
+
+## 📜 Contributions & Community
+
+We welcome contributions! Feel free to fork, submit pull requests, and report issues.
+
+## 📬 Connect With Us
+
+- 🌐 Website: https://maymeow.com
+- 🐦 Twitter / X : @TheMayMeow
+- 💬 Discussions: [Github Discussions](https://github.com/orgs/MayMeowHQ/discussions)
+
+*Thank you for visiting MayMeow HQ! Happy coding!* 🖥️✨
+
 <!--
 
 **Here are some ideas to get you started:**
