@@ -1,24 +1,32 @@
-# Welcome to the MayMeow HQ 😺
+# Welcome to MayMeow HQ 😺
 
-🙋‍♀️ Welcome to MayMeow HQ, where we build open-source solutions, GitHub Actions, and useful PHP libraries to simplify development. Our goal is to create high-quality tools that enhance developer productivity and streamline workflows.
+🙋‍♀️ Welcome to **MayMeow HQ**, a small indie space where I build open-source tools, GitHub Actions, and useful PHP libraries to make development a little easier and more fun.  
+My goal is to create high-quality utilities that simplify workflows and help developers work smarter.
 
-## 🚀 What We Do
+## 🚀 What You’ll Find Here
 
-- **Open-source projects** – Tools and libraries for developers.
-- **GitHub Actions** – Automating workflows and CI/CD pipelines.
-- **PHP Libraries** – Utilities and frameworks to improve PHP development.
+- **Open-source projects** – tools, helpers, and experimental ideas  
+- **GitHub Actions** – CI/CD automation for modern workflows  
+- **PHP libraries** – utilities and components for clean, efficient development
 
 ## 📜 Contributions & Community
 
-We welcome contributions! Feel free to fork, submit pull requests, and report issues.
+Contributions are welcome!  
+Feel free to fork repositories, submit pull requests, or open an issue.
 
-## 📬 Connect With Us
+Before contributing, please sign the **CLA** here:  
+👉 https://github.com/MayMeowHQ/cla  
+You can read the full text here:  
+👉 https://github.com/MayMeowHQ/cla/blob/main/CLA.md
 
-- 🌐 Website: https://maymeow.com
-- 🐦 Twitter / X : @TheMayMeow
-- 💬 Discussions: [Github Discussions](https://github.com/orgs/MayMeowHQ/discussions)
+## 📬 Connect
 
-*Thank you for visiting MayMeow HQ! Happy coding!* 🖥️✨
+- 🌐 Website: https://maymeow.com  
+- 🐦 Twitter / X: **@TheMayMeow**  
+- 💬 Discussions: https://github.com/orgs/MayMeowHQ/discussions
+
+*Thanks for stopping by MayMeow HQ — happy coding!* ✨💻
+
 
 <!--
 
